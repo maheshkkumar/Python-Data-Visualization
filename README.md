@@ -1,8 +1,5 @@
 ## Python Data Visualization
 
-## Tools
+## Python Plotting Tools
 
-#### matplotlib
-#### numpy
-#### requests
-#### json
+#### [matplotlib](http://matplotlib.org/)
